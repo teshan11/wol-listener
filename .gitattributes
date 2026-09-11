@@ -1,0 +1,6 @@
+public/** linguist-vendored
+
+*.svg text
+Cargo.lock linguist-generated
+src/** linguist-detectable
+# eof 9dc5d093
