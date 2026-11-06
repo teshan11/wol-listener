@@ -1,0 +1,8 @@
+*.tgz
+.env
+npm-debug.log*
+coverage/
+.env.local
+build/
+dist/
+.next/
